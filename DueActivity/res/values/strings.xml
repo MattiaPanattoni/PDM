@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Activity Principale</string>
+    <string name="app_name">DueActivity</string>
+    <string name="button">Start</string>
+     <string name="hellodue">Activity Secondaria</string>
+
+</resources>
