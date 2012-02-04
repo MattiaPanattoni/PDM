@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<compilation>
+
+	<brano id="1"> 
+
+		<titolo>Fino all'alba</titolo>
+		<autore>Brusco</autore>
+		<genere>Reagge</genere>
+
+	</brano>
+	
+	<brano id="2"> 
+
+		<titolo>Statte zitta</titolo>
+		<autore>Mannarino</autore>
+		<genere>Pop</genere>
+
+	</brano>
+	
+	<brano id="3"> 
+
+		<titolo>L'italiano medio</titolo>
+		<autore>Articolo 31</autore>
+		<genere>Rock</genere>
+
+	</brano>
+
+
+</compilation>
